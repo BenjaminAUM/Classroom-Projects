@@ -1,0 +1,4 @@
+﻿  11-3-2025 in class assignment, currency converter.cpp
+C:\Users\bpowel11\source\repos\11-3-2025 in class assignment, currency converter\11-3-2025 in class assignment, currency converter\11-3-2025 in class assignment, currency converter.cpp(38,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bpowel11\source\repos\11-3-2025 in class assignment, currency converter\11-3-2025 in class assignment, currency converter\11-3-2025 in class assignment, currency converter.cpp(45,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  11-3-2025 in class assignment, currency converter.vcxproj -> C:\Users\bpowel11\source\repos\11-3-2025 in class assignment, currency converter\x64\Debug\11-3-2025 in class assignment, currency converter.exe
